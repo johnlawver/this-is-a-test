@@ -1,0 +1,15 @@
+{
+  "appName": "this-is-a-test",
+  "domain": "this-is-a-test.johnlawver.com",
+  "coolifyProjectId": "c12ammty8ehfgr1i0szsc8gr",
+  "coolifyEnvironmentId": "pxliujco8luomt6jcznqzipp",
+  "coolifyAppId": "ia9vdn1ymf3ixfdcrr8jjn2s",
+  "secrets": "doppler",
+  "dopplerProject": "this-is-a-test",
+  "codeAtRoot": true,
+  "stack": {
+    "frontend": "static-html",
+    "backend": "none",
+    "database": "none"
+  }
+}
